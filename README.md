@@ -19,13 +19,6 @@ class PJ(self):
             'tools': ['GIT', 'GitHub', 'Bitbucket'],
             'ides': ['Visual Studio Code'],
         },
-        self.projects = {
-            'partcombinator': [ https://github.com/partcombinator ][MERN],
-            'pyerp': [ https://github.com/falconsoft3d/pyerp ][DJANGO],
-            'reactlang': [ https://github.com/falconsoft3d/reactlang ][PWA],
-            'knox-token-library-api': [ https://github.com/falconsoft3d/knox-token-library-api ][API, DOCKER, NODE, EXPRESS]
-        }
-        
 
     def __str__(self):
         return self.name
